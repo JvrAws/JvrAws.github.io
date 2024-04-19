@@ -1,4 +1,3 @@
-theme: Hacker
 # AWS for beginners
 ## lets start with the basic intro for aws.
 ### -> what is aws? 
