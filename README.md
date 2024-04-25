@@ -1,7 +1,7 @@
 # AWS for beginners
 ## lets start with the basic intro for aws.
 ### -> what is aws? 
-### AWS (Amazon Web Services) is a cloud computing platform provided by Amazon which offers a wide range of services that cater to various computing needs, including computing power, storage, databases, machine learning, networking, and more.  
+ AWS (Amazon Web Services) is a cloud computing platform provided by Amazon which offers a wide range of services that cater to various computing needs, including computing power, storage, databases, machine learning, networking, and more.  
 ### Here's a beginner-friendly introduction to AWS:
 #### 1) Cloud Computing: Before diving into AWS, it's essential to understand the concept of cloud computing. Cloud computing refers to the delivery of computing services over the internet, allowing users to access resources like servers, storage, databases, networking, software, and more, without the need for owning physical infrastructure.
 #### 2)AWS Services: AWS offers hundreds of services across various categories. Some of the key services include:
